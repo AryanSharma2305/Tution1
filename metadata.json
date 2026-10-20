@@ -1,0 +1,6 @@
+{
+  "name": "HomeTutor — Mumbai Home Tutoring Marketplace",
+  "description": "Verified, expert home tutors in Mumbai for CBSE, ICSE, Maharashtra SSC, and NIOS boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
